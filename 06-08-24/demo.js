@@ -3,6 +3,7 @@ console.error("please say good morning to me ")
 console.warn("good morning")
 
 window.console.log("hello")
+console.log("I am learning seleneium")
 window.console.error("hello")
 window.console.warn("say hello")
 
